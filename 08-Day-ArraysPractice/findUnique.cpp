@@ -14,7 +14,7 @@ int findUnique(int arr[], int size) {
 
 int main() {
 
-    int arr[7] = {3,2,3,2,4,1,4};
+    int arr[5] = {3,2,3,2,4};
 
-    cout << "Unique element is : " << findUnique(arr, 7) << endl;;
+    cout << "Unique element is : " << findUnique(arr, 5) << endl;
 }
